@@ -1,0 +1,25 @@
+body {
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-right: 300px;
+  background-image: url(../img/background_image.jpg);
+}
+h1, h2 {
+  text-align: center;
+}
+ul {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  list-style-type: none;
+}
+li {
+  padding-bottom: 10px;
+}
+strong {
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: rgb(20, 53, 27);
+}
